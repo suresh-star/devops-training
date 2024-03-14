@@ -1,1 +1,3 @@
 Welcome to Git 
+
+Thanks for attending DevOps training sessions
